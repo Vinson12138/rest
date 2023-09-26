@@ -36,6 +36,6 @@
 
 ### MacOS
 
-[小憩\_1.0.0_aarch64.dmg](./bundles/macos/小憩_1.0.0_aarch64.dmg)
+[小憩\_1.0.0_aarch64.dmg](https://github.com/Vinson12138/rest/blob/main/bundles/macos/%E5%B0%8F%E6%86%A9_1.0.0_aarch64.dmg)
 
 [小憩\_1.0.0_aarch64.app](./bundles/macos/小憩.app)
